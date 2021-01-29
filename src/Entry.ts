@@ -1,6 +1,7 @@
 import PlatformClient from './PlatformClient';
 
 export * from './PlatformClient';
+export * from './GlobalPlatformClient';
 export * from './ConfigurationInterfaces';
 export * from './APICore';
 export * from './handlers';

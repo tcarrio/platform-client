@@ -3,3 +3,7 @@ export interface LogRequestState {
     url?: string;
     error?: string;
 }
+
+export interface LogRequestId {
+    value: string;
+}
